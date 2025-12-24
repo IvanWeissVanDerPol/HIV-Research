@@ -6,6 +6,11 @@
 
 ## Executive Summary
 
+<div align="center">
+  <img src="images/hiv_env_glycan_shield_render.png" width="800" alt="3D Render of HIV-1 Virion with Glycan Shield">
+  <p><em>Figure 1: HIV-1 Virion - The dense glycan shield (fuzzy coat) masks conserved epitopes.</em></p>
+</div>
+
 This directory contains comprehensive analysis of HIV-1 using p-adic geometric methods derived from the 3-adic codon encoder (trained on V5.11.3 embeddings). The research demonstrates that **p-adic distance correlates with evolutionary fitness cost**, providing a novel geometric framework for understanding viral escape mechanisms and identifying therapeutic targets.
 
 **Key Achievement:** The framework successfully identifies "sentinel glycans" on the HIV envelope protein whose removal exposes broadly neutralizing antibody (bnAb) epitopes - a discovery corroborated by AlphaFold3 structural predictions.
@@ -49,6 +54,11 @@ flowchart LR
 ## Scientific Background
 
 ### The P-Adic Geometric Framework
+
+<div align="center">
+  <img src="images/hyperbolic_neural_network_abstract.png" width="600" alt="Abstract Hyperbolic Neural Network">
+  <p><em>Figure 2: Hyperbolic Geometric Framework - Uncovering hidden hierarchical patterns.</em></p>
+</div>
 
 ```mermaid
 flowchart TB
@@ -823,12 +833,12 @@ timeline
 
 ## Changelog
 
-| Date       | Version | Description                                                                                |
-| :--------- | :------ | :----------------------------------------------------------------------------------------- |
-| 2025-12-24 | 3.0     | Added Mermaid diagrams, improved visual structure and readability                          |
-| 2025-12-24 | 2.0     | Major expansion: comprehensive documentation, therapeutic implications, AF3 corroboration  |
-| 2025-12-18 | 1.1     | Updated to 3-adic encoder, expanded datasets                                               |
-| 2025-12-16 | 1.0     | Initial implementation                                                                     |
+| Date       | Version | Description                                                                               |
+| :--------- | :------ | :---------------------------------------------------------------------------------------- |
+| 2025-12-24 | 3.0     | Added Mermaid diagrams, improved visual structure and readability                         |
+| 2025-12-24 | 2.0     | Major expansion: comprehensive documentation, therapeutic implications, AF3 corroboration |
+| 2025-12-18 | 1.1     | Updated to 3-adic encoder, expanded datasets                                              |
+| 2025-12-16 | 1.0     | Initial implementation                                                                    |
 
 ---
 
